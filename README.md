@@ -1,18 +1,6 @@
 # AI Video Generator
 
-🎥 An AI Video Generator tool developed by the “Arabian AI School” YouTube channel
-
-🎬 YouTube: https://www.youtube.com/@ArabianAiSchool
-
-📸 Instagram: https://www.instagram.com/arabianaischool
-
-👍 Facebook: https://www.facebook.com/arabianaischool
-
-🐦 Twitter: https://twitter.com/arabianaischool
-
-✉️ Email: arabianaischool@gmail.com
-
-▶️ Tutorial Video & More Info & download the exe : https://www.youtube.com/watch?v=ICXJxn2mv08
+🎥 An AI Video Generator tool developed by Muazzain
 
 ---
 
@@ -89,7 +77,7 @@ Create two text files in the project root (they are ignored by `.gitignore`):
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Arabianaischool/AIVIDEOGEN.git
+   git clone https://github.com/MuhammadMuazzain/AI-video-gen-subtitles.git
    cd AIVIDEOGEN
 ````
 

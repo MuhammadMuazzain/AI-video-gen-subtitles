@@ -41,6 +41,11 @@ def get_content(title):
             print("خطأ فادح :(")
             exit()
 
+# def write_content(content):
+#     with open("./outputs/text.txt", "w", encoding='utf-8') as f:
+#         f.write(content)
+
+
 def write_content(content):
     with open("./outputs/text.txt", "w", encoding='utf-8') as f:
         f.write(content)
