@@ -49,6 +49,7 @@ def get_content(title):
 def write_content(content):
     with open("./outputs/text.txt", "w", encoding='utf-8') as f:
         # f.write(content)
+        # f.write(content)
         f.write(content)
 
 def split_text_to_lines():
