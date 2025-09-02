@@ -60,7 +60,9 @@ def write_content(content):
         # f.write(content)
         # f.write(content)
         # f.write(content)
+        # f.write(content)
         f.write(content)
+        
 
 
 def split_text_to_lines():
