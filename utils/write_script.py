@@ -53,7 +53,9 @@ def write_content(content):
         # f.write(content)
         # f.write(content)
         # f.write(content)
+        # f.write(content)
         f.write(content)
+
 
 def split_text_to_lines():
     with open("./outputs/text.txt", "r", encoding="utf-8") as f:
